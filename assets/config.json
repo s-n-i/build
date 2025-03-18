@@ -1,0 +1,11 @@
+{
+  "overlayUrl": null,
+  "plateUrls": [
+    "assets/data/label/stitched_1.ome.tif"
+  ],
+  "platePositioning": {
+    "plateSpacingX": 150000,
+    "plateSpacingY": 150000,
+    "platesPerRow": 10
+  }
+}
